@@ -6,7 +6,19 @@ body
     font-size: 16px;
     margin: 0;
     padding: 0;
+    
 }
+
+#cabecera
+{
+    background: chartreuse;
+    color:white;
+    margin: 0;
+    padding: 0.5em;
+    
+}
+
+
 #container
 {
     width: 70%;
